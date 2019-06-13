@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Programming\OpenGL\June2019\game_1\game_1\Source.cpp(27,26): warning C4305:  'argument': truncation from 'double' to 'GLclampf'
+C:\Programming\OpenGL\June2019\game_1\game_1\Source.cpp(30,50): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Programming\OpenGL\June2019\game_1\game_1\Source.cpp(31,47): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+  game_1.vcxproj -> C:\Programming\OpenGL\June2019\game_1\Debug\game_1.exe
